@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}"
+            ],
+            "defines": [],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
