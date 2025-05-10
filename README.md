@@ -12,7 +12,7 @@ Welcome to my collection of C++ projects developed during my time as a Computer 
 
 - **CardGameVsPC (UnFinished):** An attempt to create a card game where the player competes against the computer.
 - **Concordance-Project:** Analyzes text files to create a concordance, listing words and their occurrences.
-- **Flight-Itinerary:** Manages and displays flight itineraries
+- **Flight-Itinerary:** Manages and displays flight itineraries given the flight and cities file
 - **Gaussian-Elimination:** Implements the Gaussian elimination algorithm to solve systems of linear equations.
 - **PetDatabase:** A simple database application to manage pet information
 - **Seller-Database:** Manages seller information, including functionalities to add, update, and delete records.
