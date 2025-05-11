@@ -1,5 +1,6 @@
 # CPlusPlus-Projects
-Welcome to my collection of C++ projects developed during my time as a Computer Science student.
+Welcome to my collection of C++ projects developed during my time as a Computer Science student at Middle Tennessee State University.
+They serve as a reflection of my learning journey in C++ programming.
 
 ## 📚 Topics Covered
 
@@ -38,5 +39,3 @@ To compile and run any of the projects:
    ```bash
    ./a.out
    ```
-
-These projects were developed for educational purposes and may not fully follow professional software development standards. They serve as a reflection of my learning journey in C++ programming.
